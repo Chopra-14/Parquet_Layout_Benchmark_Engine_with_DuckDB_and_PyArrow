@@ -1,0 +1,5 @@
+duckdb==1.1.2
+pyarrow==17.0.0
+psutil==6.1.0
+pandas==2.2.3
+numpy==2.1.2
